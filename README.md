@@ -40,13 +40,13 @@ In the `front-end/src/auth_config.json` file, populate the following fields with
 ## Project Structure
 
 - **Backend:** Java service (this directory)
-- **Frontend:** React application located in the `frontend` folder. See `frontend/README.md` for details.
+- **Frontend:** React application located in the `front-end` folder. See `front-end/README.md` for details.
 
 ## Running the Project
 
 ### Start the Frontend
 
-First, install dependencies in the `frontend` directory:
+First, install dependencies in the `front-end` directory:
 
 ```bash
 npm install
@@ -68,4 +68,4 @@ Run the Java service as usual (e.g., using your IDE or `./mvnw spring-boot:run`)
 
 ---
 
-For more details on the frontend, see [`frontend/README.md`](frontend/README.md).
+For more details on the frontend, see [`front-end/README.md`](front-end/README.md).
